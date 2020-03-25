@@ -1,0 +1,5 @@
+com\bckapp\backend\BackendApplication.class
+com\bckapp\backend\domain\Project.class
+com\bckapp\backend\repositories\ProjectRepository.class
+com\bckapp\backend\services\ProjectService.class
+com\bckapp\backend\web\ProjectController.class
